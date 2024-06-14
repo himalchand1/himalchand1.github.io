@@ -1,1 +1,2 @@
-This week was my vacccation week i went to florida for my vaccation to meet my fammily.Returned back on friday . And on friday we came to lab and our mantor told us about the way of different method working in parking problems solution project . Then i starting dooing this week due works . 
+
+This week, I took a vacation and went to Florida to visit my family. I came back on Friday. On the same day, I went to the lab where our mentor explained various methods for solving parking problems as part of our project. After the explanation, I started working on the tasks that were assigned for this week.
