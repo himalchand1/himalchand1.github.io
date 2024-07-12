@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1
+title: Week 6
 by: Khem Chand 
 ---
 On Monday morning, our main goal at the lab was to take detailed photos of our parking garage. These photos were crucial for testing our prototype in a real-world setting. However, it was harder than we expected because we didn't have a drone or a good camera angle. Despite the challenges, we managed to capture some footage and photos for our initial tests.
