@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1
+title: Week 7
 by: Khem Chand 
 ---
 On Monday, I came to the lab excited to work on my prototype again. But I faced challenges because we didn't have clear photos or good camera angles to guide the coding. This problem continued into Tuesday, even though I tried hard. Despite these difficulties, I made some progress by reading two new research papers and watching a helpful coding tutorial on YouTube. My mentor also gave me valuable advice and support, which really helped me deal with these 
