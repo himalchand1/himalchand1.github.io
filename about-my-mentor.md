@@ -1,6 +1,6 @@
 ## About My Mentor
 
-My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher who’s work focuses on Brain-Computer Interfaces, as well as Human-Robot Interaction. His work aims to leverage novel neurophysiological sensing technologies, software engineering, and robotics to create tools and applications that support the exploration of Brain-Robot Interaction.
+Pelumi Abiodun and Oludare Owolabi are my graduate mentor and faculty mentors. They are both very friendly and supportive. I especially want to highlight Pelumi, who has been an amazing mentor. Whenever I faced any problems or challenges, Pelumi was always there to help me out. He is very skilled and knowledgeable. In fact, he has three different degrees and is now working on his second Ph.D. at Morgan State University. His dedication and expertise have made a huge difference in my academic journey.
 
 [Mentor's Website](https://htilua.org/about-the-pi)
 
