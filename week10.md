@@ -1,1 +1,1 @@
-
+In week 10, we focused on getting ready for our final presentation and the submission of our final research paper. We worked hard to put everything together, making sure our ideas were clear and well-organized. We had our presentation on Tuesday, and it went really well! Everyone did a great job sharing our research and findings. It felt great to present our hard work, and we were proud of how everything turned out. Overall, it was a successful week as we wrapped up our project!
